@@ -7,6 +7,8 @@ Inspired by Apollo in Real Time by Ben Feist, It's time to open up for more
 
 ![til](./apollo1.gif)
 
+![img](https://apolloinrealtime.org/11/img/help_callouts.jpg)
+
 [Apollo 13 Github Repo](https://github.com/bfeist/Apollo_13.git)
 
 ---
