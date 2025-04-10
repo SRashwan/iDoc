@@ -5,4 +5,5 @@ An opensouce project to implement an integrated documentary format into a single
 
 Inspired by Apollo in Real Time by Ben Feist, It's time to open up for more 
 ![til](./apollo1.gif)
-![Apollo 13 Github Repo](https://github.com/bfeist/Apollo_13.git)
+
+[Apollo 13 Github Repo](https://github.com/bfeist/Apollo_13.git)
